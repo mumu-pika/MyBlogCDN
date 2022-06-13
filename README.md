@@ -39,7 +39,7 @@ Create a new release
 >https://cdn.jsdelivr.net/gh/mumu-pika/MyBlogCDN@1.0.0/images/avlon.jpg
 
 当然，如果不加版本号，会默认使用最新版本，如下使用：
->https://cdn.jsdelivr.net/gh/mumu-pika/MyBlogCDN/images/alvon.jpg
+>https://cdn.jsdelivr.net/gh/mumu-pika/MyBlogCDN/images/avlon.jpg
 
 之后如果打开看见能显示资源，说明就成功！
 well done!
