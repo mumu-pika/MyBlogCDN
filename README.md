@@ -40,3 +40,60 @@ Create a new release
 
 之后如果打开看见能显示资源，说明就成功！
 well done!
+
+
+## 优秀资源网站收集
+### 1、stockup
+海量数据的图片网站，更类似于图片搜索引擎，可以搜索21个免费图片网站！
+
+>https://stockup.sitebuilderreport.com/
+
+### 2、pixabay
+
+丰富的中文图片网站，优质矢量图(无背景) 主要资源为风景、动物等
+>https://pixabay.com/
+
+### 3、streetwill
+比较小众的图片资源网站，偶尔会惊喜!
+
+>http://streetwill.co/
+
+### 4、Gratisography
+
+一个比较有创意的图片资源网站， 艺术插图等等
+>http://mcguiremade.com/
+
+### 5、textures
+textures则是一个贴图网站，其提供的海量高清贴图，全部可以免费下载，在左侧导航栏你可以随意选择自己需要的分类，但是由于图片质量太高，每天都只能限量下载
+
+>https://www.textures.com/
+
+### 6、pexels
+Pexels是一个免费高清素材下载网站，所有图片都由专业人士使用顶级的拍摄设备进行拍摄，每一张图片都会显示拍摄设备和光圈、焦距等具体信息，让你可以在下载图片的同时，学习相机的参数设置, 炒鸡良心！
+
+>https://www.pexels.com/
+
+### 7、pakutaso
+日本高清写真资源网站，非常小清新
+
+>https://www.pakutaso.com/
+
+### 8、photoshopvip
+日本超人气插画库
+
+>https://photoshopvip.net/
+
+### 9、wallhaven
+动漫超清壁纸
+
+>https://wallhaven.cc/
+
+### 10、alphacoders
+超多的动漫分类wallpaper
+
+>https://wall.alphacoders.com/
+
+### 11、wallpaperscraft
+anime 标签下的动漫图片，分辨率较高，可以按尺寸和分辨率下载图片。支持安卓和 iOS 客户端。
+
+>https://wallpaperscraft.com/
